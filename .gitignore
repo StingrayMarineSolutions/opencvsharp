@@ -123,3 +123,5 @@ UpgradeLog*.XML
 /nuget/*.nupkg
 /Help
 /myresults.xml
+
+src/build
